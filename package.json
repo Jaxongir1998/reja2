@@ -1,0 +1,20 @@
+{
+  "name": "reja2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Jaxongir1998/reja2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaxongir1998/reja2/issues"
+  },
+  "homepage": "https://github.com/Jaxongir1998/reja2#readme",
+  "description": ""
+}
